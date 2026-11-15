@@ -28,6 +28,8 @@ A collection of my C++ solutions to Codeforces problems.
 | 2241A | [2241A](https://codeforces.com/problemset/problem/2241/A) |
 | 2260A | [2260A](https://codeforces.com/problemset/problem/2260/A) |
 | 2266A | [2266A](https://codeforces.com/problemset/problem/2266/A) |
+| 2290A | [2290A](https://codeforces.com/problemset/problem/2290/A) |
+|1878C | [1878C](https://codeforces.com/problemset/problem/1878/C)  |
 
 ## Language
 
