@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-A collection of my C++ solutions to Codeforces problems.
+A collection of my C++ solutions to Codeforces problems as I progress through competitive programming.
 
 ## Solved Problems
 
