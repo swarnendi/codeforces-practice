@@ -30,6 +30,7 @@ A collection of my C++ solutions to Codeforces problems as I progress through co
 | 2266A | [2266A](https://codeforces.com/problemset/problem/2266/A) |
 | 2290A | [2290A](https://codeforces.com/problemset/problem/2290/A) |
 |1878C | [1878C](https://codeforces.com/problemset/problem/1878/C)  |
+| 1807D | [1807D](https://codeforces.com/problemset/problem/1807/D) |
 
 ## Language
 
